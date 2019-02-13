@@ -1,0 +1,7 @@
+youtube.com##.ytp-ad-button-icon
+youtube.com##.ytp-ad-overlay-ad-info-button-container
+youtube.com###button\:7
+youtube.com##.ytp-ad-button.ytp-ad-button-link.ytp-ad-clickable
+youtube.com##.ytp-ad-overlay-close-container
+youtube.com##.ytp-ad-overlay-close-button
+||pagead2.googlesyndication.com/pagead/imgad?id=CICAgKCb152_XhDYBRhaMgjureBB_uKXIg
